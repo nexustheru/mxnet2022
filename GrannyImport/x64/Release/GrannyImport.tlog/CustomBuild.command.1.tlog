@@ -1,0 +1,8 @@
+^C:\USERS\TESS\DOCUMENTS\VISUAL STUDIO 2019\PROJECTS\GRANNYIMPORT\EXPORTER.H
+E:\Qt\5.15.1\msvc2019_64\bin\moc.exe "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\Exporter.h" -o "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\moc_Exporter.cpp"
+^C:\USERS\TESS\DOCUMENTS\VISUAL STUDIO 2019\PROJECTS\GRANNYIMPORT\IMPORTER.H
+E:\Qt\5.15.1\msvc2019_64\bin\moc.exe "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\Importer.h" -o "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\moc_Importer.cpp"
+^C:\USERS\TESS\DOCUMENTS\VISUAL STUDIO 2019\PROJECTS\GRANNYIMPORT\EXPORTER.UI
+E:\Qt\5.15.1\msvc2019_64\bin\uic.exe "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\Exporter.ui" -o "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\ui_Exporter.h"
+^C:\USERS\TESS\DOCUMENTS\VISUAL STUDIO 2019\PROJECTS\GRANNYIMPORT\IMPORTER.UI
+E:\Qt\5.15.1\msvc2019_64\bin\uic.exe "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\Importer.ui" -o "C:\Users\Tess\Documents\Visual Studio 2019\Projects\GrannyImport\ui_Importer.h"
